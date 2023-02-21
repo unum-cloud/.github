@@ -1,3 +1,10 @@
+<h1 align="center">Unum</h1>
+<h3 align="center">
+Deep-Tech Software Startup<br/>
+Rebuilding infrastructure for the age of AI
+</h3>
+<br/>
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=ybWeUf_hC7o"><img height="25" src="https://github.com/unum-cloud/ukv/raw/main/assets/icons/youtube.svg" alt="Youtube"></a>
 &nbsp;&nbsp;&nbsp;
