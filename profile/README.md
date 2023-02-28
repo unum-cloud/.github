@@ -23,24 +23,16 @@ Rebuilding infrastructure for the age of AI
 
 <p align="center">
 <a href="https://github.com/unum-cloud/ukv">Universal Keys & Values</a> <b>single</b> database for your docs, graphs, and vectors<br/>
-<a href="https://github.com/unum-cloud/ujrpc">Uniterrupted JSON RPC</a> web-server for simple connected apps<br/>
-<a href="https://github.com/unum-cloud/unsw">Uncluttered Navigable Small Worlds</a> index for billion-point search<br/>
-
-<div align="center">
-What unites them?
-Those are some of the fastest yet most compact infrastructure software projects online.
-They aim for Google-scale but should also be digestible for teaching materials.
-They are free, and the Unum team actively maintains them.
-Enjoy, and please don't forget to 🌟 them 🤗
-</div>
+<a href="https://github.com/unum-cloud/ujrpc">Uniterrupted JSON RPC</a> <b>fast</b> web-server for simple connected apps<br/>
+<a href="https://github.com/unum-cloud/unsw">Uncluttered Navigable Small Worlds</a> <b>index</b> for billion-point search <i>coming soon</i><br/>
 </p>
 
 <h3 align="center">Supplementary Libraries 👩‍💻</h3>
 
 <p align="center">
 <a href="https://github.com/unum-cloud/uform">Unified Form</a> for multi-modal AI inference<br/>
-<a href="https://github.com/unum-cloud/ucset">Unexceptionally Consistent Set</a> for safe concurrent containers<br/>
 <a href="https://github.com/unum-cloud/udisk">Unbreakable Disk</a> for fastest databases<br/>
+<a href="https://github.com/unum-cloud/ucset">Unexceptionally Consistent Set</a> for safe concurrent containers<br/>
 </p>
 
 <h3 align="center">Benchmarks 🍿</h3>
@@ -49,3 +41,13 @@ Enjoy, and please don't forget to 🌟 them 🤗
 <a href="https://github.com/unum-cloud/ucsb">Unbranded Cloud Serving Benchmark</a> for key-value stores<br/>
 <a href="https://github.com/unum-cloud/udsb">Unlimited Data-Science Benchmark</a> for hardware-accelerated analytics<br/>
 </p>
+
+
+<hr>
+<div align="center">
+What unites them?
+Those are some of the fastest yet most compact infrastructure software projects online.
+They aim for Google-scale but should also be digestible for teaching materials.
+They are free, and the Unum team actively maintains them.
+Enjoy, and please don't forget to 🌟 them 🤗
+</div>
