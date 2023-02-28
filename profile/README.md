@@ -19,34 +19,26 @@ Rebuilding infrastructure for the age of AI
 <a href="https://github.com/unum-cloud/ukv"><img height="25" src="https://github.com/unum-cloud/ukv/raw/main/assets/icons/github.svg" alt="GitHub"></a>
 </p>
 
-### Open-Source Projects 🏎️
 
-|                                            |                                             |
-| :----------------------------------------- | :------------------------------------------ |
-| [Universal Keys & Values][ukv]             | database for your docs, graphs, and vectors |
-| [Uniterrupted JSON RPC][ujrpc]             | web-server for simple connected apps        |
-| [Uncluttered Navigable Small Worlds][unsw] | index for billion-point search              |
+<h3 align="center">Open-Source Projects 🏎️</h3>
 
-### Supplementary Libraries 👩‍💻
+<p align="center">
+<a href="https://github.com/unum-cloud/ukv">Universal Keys & Values</a>database for your docs, graphs, and vectors<br/>
+<a href="https://github.com/unum-cloud/ujrpc">Uniterrupted JSON RPC</a>web-server for simple connected apps<br/>
+<a href="https://github.com/unum-cloud/unsw">Uncluttered Navigable Small Worlds</a>index for billion-point search<br/>
+</p>
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| [Unified Form][uform]                   | for multi-modal inference      |
-| [Unexceptionally Consistent Set][ucset] | for safe concurrent containers |
-| [Unbreakable Disk][udisk]               | for fastest databases          |
+<h3 align="center">Supplementary Libraries 👩‍💻</h3>
 
-### Benchmarks 🍿
+<p align="center">
+<a href="https://github.com/unum-cloud/uform">Unified Form</a>for multi-modal AI inference<br/>
+<a href="https://github.com/unum-cloud/ucset">Unexceptionally Consistent Set</a>for safe concurrent containers<br/>
+<a href="https://github.com/unum-cloud/udisk">Unbreakable Disk</a>for fastest databases<br/>
+</p>
 
-|                                           |                                    |
-| :---------------------------------------- | :--------------------------------- |
-| [Unbranded Cloud Serving Benchmark][ucsb] | for key-value stores               |
-| [Unlimited Data-Science Benchmark][udsb]  | for hardware-accelerated analytics |
+<h3 align="center">Benchmarks 🍿</h3>
 
-[ukv]: https://github.com/unum-cloud/ukv
-[ujrpc]: https://github.com/unum-cloud/ujrpc
-[unsw]: https://github.com/unum-cloud/unsw
-[uform]: https://github.com/unum-cloud/uform
-[ucset]: https://github.com/unum-cloud/ucset
-[udisk]: https://github.com/unum-cloud/udisk
-[ucsb]: https://github.com/unum-cloud/ucsb
-[udsb]: https://github.com/unum-cloud/udsb
+<p align="center">
+<a href="https://github.com/unum-cloud/ucsb">Unbranded Cloud Serving Benchmark</a>for key-value stores<br/>
+<a href="https://github.com/unum-cloud/udsb">Unlimited Data-Science Benchmark</a>for hardware-accelerated analytics<br/>
+</p>
