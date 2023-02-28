@@ -19,26 +19,25 @@ Rebuilding infrastructure for the age of AI
 <a href="https://github.com/unum-cloud/ukv"><img height="25" src="https://github.com/unum-cloud/ukv/raw/main/assets/icons/github.svg" alt="GitHub"></a>
 </p>
 
-
 <h3 align="center">Open-Source Projects 🏎️</h3>
 
 <p align="center">
-<a href="https://github.com/unum-cloud/ukv">Universal Keys & Values</a>database for your docs, graphs, and vectors<br/>
-<a href="https://github.com/unum-cloud/ujrpc">Uniterrupted JSON RPC</a>web-server for simple connected apps<br/>
-<a href="https://github.com/unum-cloud/unsw">Uncluttered Navigable Small Worlds</a>index for billion-point search<br/>
+<a href="https://github.com/unum-cloud/ukv">Universal Keys & Values</a> database for your docs, graphs, and vectors<br/>
+<a href="https://github.com/unum-cloud/ujrpc">Uniterrupted JSON RPC</a> web-server for simple connected apps<br/>
+<a href="https://github.com/unum-cloud/unsw">Uncluttered Navigable Small Worlds</a> index for billion-point search<br/>
 </p>
 
 <h3 align="center">Supplementary Libraries 👩‍💻</h3>
 
 <p align="center">
-<a href="https://github.com/unum-cloud/uform">Unified Form</a>for multi-modal AI inference<br/>
-<a href="https://github.com/unum-cloud/ucset">Unexceptionally Consistent Set</a>for safe concurrent containers<br/>
-<a href="https://github.com/unum-cloud/udisk">Unbreakable Disk</a>for fastest databases<br/>
+<a href="https://github.com/unum-cloud/uform">Unified Form</a> for multi-modal AI inference<br/>
+<a href="https://github.com/unum-cloud/ucset">Unexceptionally Consistent Set</a> for safe concurrent containers<br/>
+<a href="https://github.com/unum-cloud/udisk">Unbreakable Disk</a> for fastest databases<br/>
 </p>
 
 <h3 align="center">Benchmarks 🍿</h3>
 
 <p align="center">
-<a href="https://github.com/unum-cloud/ucsb">Unbranded Cloud Serving Benchmark</a>for key-value stores<br/>
-<a href="https://github.com/unum-cloud/udsb">Unlimited Data-Science Benchmark</a>for hardware-accelerated analytics<br/>
+<a href="https://github.com/unum-cloud/ucsb">Unbranded Cloud Serving Benchmark</a> for key-value stores<br/>
+<a href="https://github.com/unum-cloud/udsb">Unlimited Data-Science Benchmark</a> for hardware-accelerated analytics<br/>
 </p>
