@@ -6,17 +6,17 @@ Rebuilding infrastructure for the age of AI
 <br/>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=ybWeUf_hC7o"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/icons/youtube.svg" alt="Youtube"></a>
+<a href="https://www.youtube.com/watch?v=ybWeUf_hC7o"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/youtube.svg" alt="Youtube"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/4mxGrenbNt"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/icons/discord.svg" alt="Discord"></a>
+<a href="https://discord.gg/4mxGrenbNt"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/discord.svg" alt="Discord"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/unum-cloud/"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/icons/linkedin.svg" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/company/unum-cloud/"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/linkedin.svg" alt="LinkedIn"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/unum_cloud"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/icons/twitter.svg" alt="Twitter"></a>
+<a href="https://twitter.com/unum_cloud"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/twitter.svg" alt="Twitter"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://unum.cloud/blog"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/icons/blog.svg" alt="Blog"></a>
+<a href="https://unum.cloud/blog"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/blog.svg" alt="Blog"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/unum-cloud/ukv"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/icons/github.svg" alt="GitHub"></a>
+<a href="https://github.com/unum-cloud/ukv"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/github.svg" alt="GitHub"></a>
 </p>
 
 <h3 align="center">Open-Source Projects 🏎️</h3>
