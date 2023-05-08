@@ -48,8 +48,13 @@ Rebuilding infrastructure for the age of AI
 <hr>
 <div align="center">
 What unites them?
-Those are some of the fastest yet most compact infrastructure software projects online.
+Those are some of the <b>fastest</b> yet most <b>compact</b> infrastructure software projects online.
 They aim for Google-scale but should also be digestible for teaching materials.
 They are free, and the Unum team actively maintains them.
 Enjoy, and please don't forget to 🌟 them 🤗
+</div>
+<div align="center">
+<a href="https://github.com/unum-cloud/examples">Examples</a>
+•
+<a href="https://github.com/unum-cloud/awesome/blob/main/Workflow.md">Contributing</a>
 </div>
