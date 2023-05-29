@@ -21,14 +21,21 @@ Rebuilding infrastructure for the age of AI
 
 <h3 align="center">Open-Source Projects 🏎️</h3>
 
-<b> 
 <p align="center">
-<a href="https://github.com/unum-cloud/ustore">UStore</a> single database for your docs, graphs, and vectors<br/>
-<a href="https://github.com/unum-cloud/ucall">UCall</a> fastest RPC server for simple connected apps<br/>
-<a href="https://github.com/unum-cloud/usearch">USearch</a> index for billion-scale vector search<br/>
-<a href="https://github.com/unum-cloud/uform">UForm</a> for multi-modal AI inference<br/>
+<b><a href="https://github.com/unum-cloud/ustore">UStore</a> single ACID NoSQL database for any data</b><br/>
+Document collections 3x faster than MongoDB and with a Pandas API<br/>
+Graph collections 10x faster than Neo4J and with a NetworkX API<br/>
+<br/>
+<b><a href="https://github.com/unum-cloud/ucall">UCall</a> trivial JSON Remote Procedure Calls</b><br/>
+70x throughput & 50x lower latency than FastAPI<br/>
+<br/>
+<b><a href="https://github.com/unum-cloud/usearch">USearch</a> tiny single-file Vector Search engine</b><br/>
+2x faster than FAISS, supporting 10 programming languages<br/>
+<br/>
+<b><a href="https://github.com/unum-cloud/uform">UForm</a> efficient Mid-Fusion Transformers for Multi-Modal Semantic Search</b><br/>
+3x smaller than OpenAI CLIP, trained on 100x less data for 10 languages<br/>
+<br/>
 </p>
-</b>
 
 <h3 align="center">Supplementary Libraries 👩‍💻</h3>
 
