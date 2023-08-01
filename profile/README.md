@@ -23,7 +23,8 @@ Rebuilding infrastructure for the age of AI
 
 <p align="center">
 <b><a href="https://github.com/unum-cloud/usearch">USearch</a> tiny single-file Vector Search engine</b><br/>
-2x faster than FAISS, supporting 10 programming languages, Linux, Windows, MacOS, iOS, Android, WebAssembly<br/>
+2x faster than FAISS, supporting 10 programming languages,<br/>
+Linux, Windows, MacOS, iOS, Android, WebAssembly<br/>
 <br/>
 <b><a href="https://github.com/unum-cloud/ucall">UCall</a> trivial JSON Remote Procedure Calls</b><br/>
 70x throughput & 50x lower latency than FastAPI<br/>
