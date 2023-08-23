@@ -1,8 +1,23 @@
-<h1 align="center">Unum</h1>
 <h3 align="center">
-Deep-Tech Software Startup<br/>
-Rebuilding infrastructure for the age of AI
+Storage, Search, & AI Libraries Designed to Scale
 </h3>
+
+
+<div align="center">
+
+<a href="https://github.com/unum-cloud/ucall"> <img src="https://img.shields.io/github/stars/unum-cloud/ucall?style=social&label=UCall"/> </a>
+<a href="https://github.com/unum-cloud/usearch"> <img src="https://img.shields.io/github/stars/unum-cloud/usearch?style=social&label=USearch"/> </a>
+<a href="https://github.com/unum-cloud/uform"> <img src="https://img.shields.io/github/stars/unum-cloud/uform?style=social&label=UForm"/> </a>
+<a href="https://github.com/unum-cloud/ustore"> <img src="https://img.shields.io/github/stars/unum-cloud/ustore?style=social&label=UStore"/> </a>
+
+</div>
+
+<div align="center">
+
+Our projects offer <b>modular integration</b>, allowing for standalone use or as part of a unified data lake. With <b>concise codebases</b> up to 100x shorter than alternatives, they are easy to adjust, yet deliver <b>peak performance</b> through Assembly-level optimizations in C-like languages. Wrapped into <b>Python, JavaScript</b>, and other language bindings, they are trivial to adopt. Trusted by FAANG companies for <b>Internet-scale data processing</b>, all projects are <b>open-source</b> under the Apache 2.0 license 🤗
+  
+</div>
+
 <br/>
 
 <p align="center">
@@ -19,50 +34,16 @@ Rebuilding infrastructure for the age of AI
 <a href="https://github.com/unum-cloud/ukv"><img height="25" src="https://github.com/unum-cloud/.github/raw/main/assets/github.svg" alt="GitHub"></a>
 </p>
 
-<h3 align="center">Open-Source Projects 🏎️</h3>
-
-<p align="center">
-<b><a href="https://github.com/unum-cloud/usearch">USearch</a> tiny single-file Vector Search engine</b><br/>
-2x faster than FAISS, supporting 10 programming languages,<br/>
-Linux, Windows, MacOS, iOS, Android, WebAssembly<br/>
 <br/>
-<b><a href="https://github.com/unum-cloud/ucall">UCall</a> trivial JSON Remote Procedure Calls</b><br/>
-70x throughput & 50x lower latency than FastAPI<br/>
-<br/>
-<b><a href="https://github.com/unum-cloud/ustore">UStore</a> single ACID NoSQL database for any data</b><br/>
-Document collections 3x faster than MongoDB and with a Pandas API<br/>
-Graph collections 10x faster than Neo4J and with a NetworkX API<br/>
-<br/>
-<b><a href="https://github.com/unum-cloud/uform">UForm</a> efficient Mid-Fusion Transformers for Multi-Modal Semantic Search</b><br/>
-3x smaller than OpenAI CLIP, trained on 100x less data for 10 languages<br/>
-<br/>
-</p>
-
-<h3 align="center">Supplementary Libraries 👩‍💻</h3>
-
-<p align="center">
-<a href="https://github.com/unum-cloud/udisk">UDisk</a> for fastest databases<br/>
-<a href="https://github.com/unum-cloud/ucset">UCSet</a> for safe concurrent containers<br/>
-</p>
-
-<h3 align="center">Benchmarks 🍿</h3>
-
-<p align="center">
-<a href="https://github.com/unum-cloud/ucsb">Unbranded Cloud Serving Benchmark</a> for key-value stores<br/>
-<a href="https://github.com/unum-cloud/udsb">Unlimited Data-Science Benchmark</a> for hardware-accelerated analytics<br/>
-</p>
-
 
 <hr>
-<div align="center">
-What unites them?
-Those are some of the <b>fastest</b> yet most <b>compact</b> infrastructure software projects online.
-They aim for Google-scale but should also be digestible for teaching materials.
-They are free, and the Unum team actively maintains them.
-Enjoy, and please don't forget to 🌟 them 🤗
-</div>
+
 <div align="center">
 <a href="https://github.com/unum-cloud/examples">Examples</a>
 •
 <a href="https://github.com/unum-cloud/awesome/blob/main/Workflow.md">Contributing</a>
+•
+<a href="https://github.com/unum-cloud/ucsb">UCSB</a> Storage Benchmarks
+•
+<a href="https://github.com/unum-cloud/udsb">UDSB</a> Analytics Benchmarks
 </div>
