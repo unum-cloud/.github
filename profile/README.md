@@ -5,8 +5,8 @@ Storage, Search, & AI Libraries Designed to Scale
 
 <div align="center">
 
-<a href="https://github.com/unum-cloud/ucall"> <img src="https://img.shields.io/github/stars/unum-cloud/ucall?style=social&label=UCall"/> </a>
 <a href="https://github.com/unum-cloud/usearch"> <img src="https://img.shields.io/github/stars/unum-cloud/usearch?style=social&label=USearch"/> </a>
+<a href="https://github.com/unum-cloud/ucall"> <img src="https://img.shields.io/github/stars/unum-cloud/ucall?style=social&label=UCall"/> </a>
 <a href="https://github.com/unum-cloud/uform"> <img src="https://img.shields.io/github/stars/unum-cloud/uform?style=social&label=UForm"/> </a>
 <a href="https://github.com/unum-cloud/ustore"> <img src="https://img.shields.io/github/stars/unum-cloud/ustore?style=social&label=UStore"/> </a>
 
