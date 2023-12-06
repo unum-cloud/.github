@@ -14,7 +14,7 @@ Search, AI, and Storage Libraries Designed to Scale
 
 </div>
 
-![](/assets/unum-scaling-intelligence-white.png)
+<!--- ![](/assets/unum-scaling-intelligence-white.png) --->
 
 <div align="center">
 
