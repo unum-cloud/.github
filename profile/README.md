@@ -1,7 +1,6 @@
 <h3 align="center">
-Storage, Search, & AI Libraries Designed to Scale
+Search, AI, and Storage Libraries Designed to Scale
 </h3>
-
 
 <div align="center">
 
@@ -10,7 +9,12 @@ Storage, Search, & AI Libraries Designed to Scale
 <a href="https://github.com/unum-cloud/uform"> <img src="https://img.shields.io/github/stars/unum-cloud/uform?style=social&label=UForm"/> </a>
 <a href="https://github.com/unum-cloud/ustore"> <img src="https://img.shields.io/github/stars/unum-cloud/ustore?style=social&label=UStore"/> </a>
 
+<a href="https://www.youtube.com/watch?v=UMrhB3icP9w&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT&index=4&t=65s"> <img alt="" src="https://img.shields.io/youtube/views/UMrhB3icP9w?label=USearch"> </a>
+<a href="https://www.youtube.com/watch?v=ybWeUf_hC7o&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT&index=2"> <img alt="" src="https://img.shields.io/youtube/views/ybWeUf_hC7o?label=UStore"> </a>
+
 </div>
+
+![](/assets/unum-scaling-intelligence-white.png)
 
 <div align="center">
 
